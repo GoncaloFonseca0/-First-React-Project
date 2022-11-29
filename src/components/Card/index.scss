@@ -1,0 +1,49 @@
+.app {
+  font-style: sans-serif;
+  text-align: center;
+  font-weight: 500;
+  line-height: 1.4;
+  background-color: whitesmoke;
+  display: flex;
+  border: 30px;
+  border-radius: 60px;
+  padding: 50px;
+  align-items: flex-end;
+}
+
+img {
+  max-width: 150px;
+}
+
+.darkCard {
+  text-align: center;
+  justify-content: space-around;
+  max-width: 1220px;
+  margin: 3rem auto;
+  padding: 20px;
+}
+
+.blueCard {
+  justify-content: space-around;
+  max-width: 1220px;
+  margin: 3rem auto;
+  border: 20px;
+  padding: 20px;
+}
+
+.orangeCard {
+  justify-content: space-around;
+  max-width: 1220px;
+  margin: 3rem auto;
+  padding: 20px;
+}
+
+//button
+
+button {
+  padding: 15px 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  display: inline-block;
+  transition: all 0.2s;
+}
